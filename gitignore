@@ -1,0 +1,12 @@
+# Competition data and outputs (do not upload)
+input/
+output/
+data/
+*.csv
+*.zip
+
+# Python / notebooks
+__pycache__/
+.ipynb_checkpoints/
+.venv/
+.env
